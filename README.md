@@ -20,6 +20,9 @@
 （5）	代码结构清晰、源文件结构合理，使用Makefile文件进行编译和维护软件；
 
 client -：客户端相关程序文件
+
 server - ：服务器端相关程序文件
+
 performance.sh ：服务器资源查看脚本
+
 makefile 编译维护软件
